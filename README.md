@@ -12,8 +12,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-E34F26?style=for-the-badge&logo=NodeJS&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-85A3FF6?style=for-the-badge&logo=NodeJS&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-1F3D99?style=for-the-badge&logo=React&logoColor=white)
 
 ## 🚀 Projects
 - [Movie Ticket Booking System](https://github.com/Susitha05/Movie-ticket-booking-system): A system to book movie tickets using Java.
