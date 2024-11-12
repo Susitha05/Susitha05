@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Susitha Ayodya 👋
 
-<!--
-**Susitha05/Susitha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3A98F0&lines=Software+Engineer;Web+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- 🌱 Currently learning new technologies in software development.
+- 👨‍💻 Interested in **Web Development**, **Machine Learning**, and **Android Development**.
+- ⚡ Fun fact: I love photography and exploring new places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🚀 Projects
+- [Movie Ticket Booking System](https://github.com/Susitha05/Movie-ticket-booking-system): A system to book movie tickets using Java.
+- [Image Editing Application](https://github.com/Susitha05/Image-Editing-application-): A Python app for image editing.
+- [TravelWise](https://github.com/Susitha05/TravelWise): A booking app for buses with various features.
+
+## 📊 GitHub Stats
+![Susitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Susitha05&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Susitha05&theme=dracula&row=1&column=7)
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Susitha05&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Susitha05&color=blue)
