@@ -1,6 +1,6 @@
 # Hi there, I'm Susitha Ayodya! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=3A98F0&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;Mobile+Appication+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=3A98F0&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;++Mobile+Appication+Developer;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600" height="300"/>
